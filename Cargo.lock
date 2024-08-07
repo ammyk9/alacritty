@@ -90,7 +90,7 @@ dependencies = [
 
 [[package]]
 name = "alacritty_terminal"
-version = "0.23.0"
+version = "0.24.1-dev"
 dependencies = [
  "base64",
  "bitflags 2.6.0",
